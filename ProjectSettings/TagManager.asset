@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - gen_audio
+  - city_mask
+  - lamp_post
+  - police_car
+  - oth_cars
+  - city_cam
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Car
+  - Barriers
+  - Police
+  - NoCollWPed
+  - PedCar
+  - IgnoreByPedCars
+  - Props
+  - CarBounds
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Dummy_L_1
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Road
+    uniqueID: 618255109
+    locked: 0
+  - name: CityRoadAndPave
+    uniqueID: 3436266341
+    locked: 0
+  - name: Car
+    uniqueID: 3013473651
+    locked: 0
+  - name: Buildings
+    uniqueID: 1504010605
+    locked: 0
+  - name: Props
+    uniqueID: 1729422341
+    locked: 0
+  - name: Debug
+    uniqueID: 1984042185
+    locked: 0
