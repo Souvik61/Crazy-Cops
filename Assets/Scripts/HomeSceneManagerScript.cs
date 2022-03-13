@@ -14,7 +14,7 @@ public class HomeSceneManagerScript : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Escape))
         {
-            Application.Quit();
+            //Application.Quit();
         }
     }
 
