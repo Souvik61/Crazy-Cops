@@ -1307,7 +1307,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 0, y: 0.5}
   m_AnchoredPosition: {x: 296.8, y: -197.3}
-  m_SizeDelta: {x: 540.64954, y: 112.922516}
+  m_SizeDelta: {x: 544, y: 177}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1567453292
 MonoBehaviour:
@@ -1330,7 +1330,9 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'WASD to drive.
 
-    SPACEBAR to handbrake.'
+    SPACEBAR to handbrake.
+
+    ESC to quit.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
